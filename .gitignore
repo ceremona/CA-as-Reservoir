@@ -1,0 +1,19 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# uv and Virtual Environments
+.venv/
+.python-version
+
+# Generated Artifacts (from the CA simulation outputs)
+*.gif
+*.png
+
+# OS specific files
+.DS_Store
+Thumbs.db
